@@ -27,17 +27,17 @@ Feedget é um Widget que fica na parte inferior da tela tanto web como mobile qu
 
 ## 🚀 Como executar
 
-- Abaixo você encontrará o link para cada parte da aplicação como um todo. Está dividido em Server, Mobile e Web. 
+- Abaixo você encontrará o link para cada parte da aplicação como um todo e também como executar cada uma delas. Está dividido em Server, Mobile e Web.
 
 
 ## Repositórios
 
 
-| Nome | Link |
-| :-------- |:------------------------- |
-| Web | https://github.com/lucas-rabelo/Feedget_web |
-| Mobile | https://github.com/lucas-rabelo/Feedget_mobile |
-| Server | https://github.com/lucas-rabelo/Feedget_server |
+| Nome   | Link                                           | Execução                              |
+| :----- |:---------------------------------------------- | :------------------------------------ |
+| Web    | https://github.com/lucas-rabelo/Feedget_web    | npm install && run start              |
+| Mobile | https://github.com/lucas-rabelo/Feedget_mobile | yarn ( or npm install ) && expo start |
+| Server | https://github.com/lucas-rabelo/Feedget_server | npm install && npm run start          |
 
 
 ## 📄 Licença
